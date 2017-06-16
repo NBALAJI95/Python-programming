@@ -8,8 +8,13 @@ def findCharFreq(s, c):
 
 def main():
     inp_str = input('Enter the string:')
-    char = input('Enter a letter in the string:')
-    print('Character Frequency', findCharFreq(inp_str, char))
+    distinct_letters = []
+    for i in inp_str:
+        if i not in distinct_letters:
+            distinct_letters.append(i)
+
+    for e in distinct_letters:
+        print('Character Frequency of %s is %s' % (e, findCharFreq(inp_str, e)))
 
 if __name__ == '__main__':
     main()
