@@ -3,7 +3,7 @@ def findCharFreq(s, c):
         return 'Letter not in string'
     else:
         count = s.count(c)
-        return str(count / len(s) * 100)+'%'
+        return count
 
 
 def main():
