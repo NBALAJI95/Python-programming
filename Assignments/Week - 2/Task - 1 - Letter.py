@@ -15,5 +15,6 @@ def main():
                     op += '* '
         op += '\n'
     print(op)
+
 if __name__ == '__main__':
     main()
