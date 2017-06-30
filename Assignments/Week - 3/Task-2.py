@@ -1,10 +1,14 @@
 
 def main():
     inp = input('Enter numbers, tuples separated by ";":')
-    inp = inp.split(';')
-    inp = list(filter(lambda a: a!='', inp))
+    try:
+        inp = inp.split(';')
+        inp = list(filter(lambda a: a!='', inp))
 
-    inp = list(map(lambda a: a.split(','), inp))
+        inp = list(map(lambda a: a.split(','), inp))
+    except:
+        print('Invalid input!\nBetter luck next time')
+
     inp1 = list()
     for i in inp:
         inp1.append(tuple(map(lambda a: int(a), i)))

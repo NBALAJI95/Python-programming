@@ -1,3 +1,4 @@
+# Getting input co-ordinates from the user
 def getCoordinates(turn, tt):
     player = ''
     while True:
@@ -19,17 +20,22 @@ def getCoordinates(turn, tt):
     inp.append(player)
     return inp
 
+# Setting values
 def setCoordinates(t, m):
     m[0] -= 1
     m[1] -= 1
     t[m[0]][m[1]] = m[2]
     return t
 
+
 def print_horiz_line():
     return '--- ' * 3
 
+
 def print_vert_line():
     return '|'
+
+#function for printing the board
 
 def gameBoard(tt):
     ret = ''
@@ -48,8 +54,8 @@ def gameBoard(tt):
         ret += '\n'
     ret += print_horiz_line()
     return ret
-
     print_horiz_line()
+
 def main():
     tic_tac = list()
     for i in range(3):
@@ -57,12 +63,10 @@ def main():
         for j in range(3):
             t.append(-1)
         tic_tac.append(t)
-    #print(tic_tac)
 
     for i in range(9):
         g = getCoordinates(i, tic_tac)
         tic_tac = setCoordinates(tic_tac, g)
-        #print(tic_tac)
         print(gameBoard(tic_tac))
 
 if __name__ == "__main__":
