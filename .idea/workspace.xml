@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e19bbb5c-025f-4ab1-a433-a211f57ffa3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/balaj.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignments/Week - 5/ExpenseTracker.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py" />
+    <list default="true" id="e19bbb5c-025f-4ab1-a433-a211f57ffa3e" name="Default" comment="inClass - 5 - updated">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inClass/Class - 6.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Python_programming$inClass.coverage" NAME="inClass Coverage Results" MODIFIED="1498842341031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inClass/Class - 4" />
     <SUITE FILE_PATH="coverage/Python_programming$Q2.coverage" NAME="Q2 Coverage Results" MODIFIED="1499295813165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments/Week - 4" />
     <SUITE FILE_PATH="coverage/Python_programming$tic_tac_toe_OO.coverage" NAME="tic_tac-toe_OO Coverage Results" MODIFIED="1499991393241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignments/Week - 5" />
+    <SUITE FILE_PATH="coverage/Python_programming$Class___6.coverage" NAME="Class - 6 Coverage Results" MODIFIED="1500045610426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inClass" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -34,19 +33,31 @@
       <file leaf-file-name="ExpenseTracker.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/ExpenseTracker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="150">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tic_tac-toe_OO.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tic_tac-toe_OO.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="127" column="10" lean-forward="true" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Class - 6.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/inClass/Class - 6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,8 +65,8 @@
       <file leaf-file-name="Task-3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assignments/Week - 3/Task-3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="800">
-              <caret line="56" column="22" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
+            <state relative-caret-position="1400">
+              <caret line="56" column="22" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -100,6 +111,7 @@
         <option value="$PROJECT_DIR$/Assignments/Week - 5/StudentEnrollmentSystem.py" />
         <option value="$PROJECT_DIR$/Assignments/Week - 5/ExpenseTracker.py" />
         <option value="$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py" />
+        <option value="$PROJECT_DIR$/inClass/Class - 6.py" />
       </list>
     </option>
   </component>
@@ -156,6 +168,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="inClass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python-programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Assignments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -178,24 +204,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-programming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python-programming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week - 3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -203,7 +211,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/python_Lesson6_SourceCode" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -218,26 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tic_tac-toe_OO">
-    <configuration default="false" name="Q4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments/Week - 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python - Summer" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Week - 4/Q4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Class - 6">
     <configuration default="false" name="inClass-1-Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,6 +298,25 @@
       <module name="Python - Summer" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Class - 6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inClass" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python - Summer" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inClass/Class - 6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -463,19 +471,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Q4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.inClass-1-Inheritance" />
-      <item index="2" class="java.lang.String" itemvalue="Python.numpy_pgm" />
-      <item index="3" class="java.lang.String" itemvalue="Python.ExpenseTracker" />
-      <item index="4" class="java.lang.String" itemvalue="Python.tic_tac-toe_OO" />
+      <item index="0" class="java.lang.String" itemvalue="Python.inClass-1-Inheritance" />
+      <item index="1" class="java.lang.String" itemvalue="Python.numpy_pgm" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ExpenseTracker" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tic_tac-toe_OO" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Class - 6" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tic_tac-toe_OO" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ExpenseTracker" />
-        <item index="2" class="java.lang.String" itemvalue="Python.numpy_pgm" />
-        <item index="3" class="java.lang.String" itemvalue="Python.inClass-1-Inheritance" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Q4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Class - 6" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tic_tac-toe_OO" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ExpenseTracker" />
+        <item index="3" class="java.lang.String" itemvalue="Python.numpy_pgm" />
+        <item index="4" class="java.lang.String" itemvalue="Python.inClass-1-Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -556,7 +564,14 @@
       <option name="project" value="LOCAL" />
       <updated>1499447388109</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="inClass - 5 - updated">
+      <created>1499991462354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1499991462354</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -570,18 +585,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2681081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27297297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23655914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33094385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23655914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33094385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39904422" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -617,11 +633,34 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/ExpenseTracker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Week - 3/Task-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="22" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="168" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inClass/Class - 5/inClass-1-Inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
           <caret line="28" column="10" lean-forward="true" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +732,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +739,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,31 +753,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Week - 3/Task-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="56" column="22" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/ExpenseTracker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assignments/Week - 3/Task-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="56" column="22" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="56" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="118" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignments/Week - 5/tic_tac-toe_OO.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="127" column="10" lean-forward="true" selection-start-line="127" selection-start-column="10" selection-end-line="127" selection-end-column="10" />
+        <state relative-caret-position="150">
+          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inClass/Class - 6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
