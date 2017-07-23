@@ -43,11 +43,9 @@ def main():
             print lm.lemmatize(e)
 
     print '\nTrigram output'
-
     trigrams = ngrams(op, 3)
     for grams in trigrams:
         print grams
-
     print '\nNamed Entity Recognization'
     print ne_chunk(pos_tag(wordpunct_tokenize(input_text)))
 
