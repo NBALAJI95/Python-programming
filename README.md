@@ -8,3 +8,5 @@ Week 3 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assi
 Week 4 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assignment-4
 
 Week 5 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assignment-5
+
+Week 6 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assignment-6
