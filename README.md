@@ -11,4 +11,4 @@ Week 5 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assi
 
 Week 6 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assignment-6
 
-Week 7 wiki --> https://github.com/NBALAJI95/Python-programming
+Week 7 wiki --> https://github.com/NBALAJI95/Python-programming/wiki/Python-Assignment-7
